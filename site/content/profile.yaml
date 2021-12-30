@@ -1,0 +1,28 @@
+- profile:
+  initials: BR
+  name: Brandon Roberts
+  profession: Developer
+  image: images/profile.jpg
+  location: Arizona, USA
+  relocation: true
+  company: Student/NAU
+  for_hire: true
+  focus: Learning VIM
+  focus_url: https://gatsbyjs.org
+  about: |
+    Currently working as a Intern Developer while Studying Computer Science at Northern Arizona University. Looking to full time carrer with a company that will advance my knowledge as a developer while also making an impact on the innovations of tomorrow.
+
+    Working with Yavapai County GIS developing applications for implementing systems and databases for geospatial data. Well-versed in Java/Python having 4+ years of experience. 2 years with C/C++/C# as well as PHP development in a web dev environment. Thank you for taking the time to look at who I am!
+  skills:
+    - Java
+    - Python
+    - Database Work
+  tools:
+    - React
+    - VSCode
+    - GIS Pro
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
