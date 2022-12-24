@@ -6,7 +6,7 @@ module.exports = ({
 }) => {
   return {
     siteMetadata: {
-      description: "Personal page of John Doe",
+      description: "Brandon Roberts",
       locale: "en",
       showThemeLogo,
       title: "John Doe",
